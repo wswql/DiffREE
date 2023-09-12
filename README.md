@@ -28,4 +28,5 @@ Two groups of two with labels on the left and forecasts on the right, 1p\~5p in 
 
 ## Train and Test
 `CUDA_VISIBLE_DEVICES=3,4 python runner.py --config configs/weather_round.yml --exp weather_20  --config_mod sampling.subsample=100 -t --ni`
+
 `CUDA_VISIBLE_DEVICES=1 python runner.py --config configs/weather_round.yml --exp weather_20  --config_mod sampling.subsample=100 sampling.num_frames_pred=100 data.revise=False -vg --ni`
