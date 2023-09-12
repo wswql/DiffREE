@@ -15,6 +15,7 @@ of 42.2%, 51.1%, 49.8%, and 39.5% in CSI, ETS, HSS, and POD metrics, respectivel
 
 ## Model Structure
 <img src="/figures/1_page-0001.jpg" alt="图片alt" title="Conditional Encoding Architecture">
+Conditional Encoding Architecture
 
 <img src="/figures/2_page-0001.jpg" alt="图片alt" title="Conditional Diffusion Architecture">
 Conditional Diffusion Architecture
