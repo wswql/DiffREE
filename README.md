@@ -14,6 +14,7 @@ Compared with the best baseline algorithm, the proposed method shows significant
 of 42.2%, 51.1%, 49.8%, and 39.5% in CSI, ETS, HSS, and POD metrics, respectively
 
 ## Model Structure
-!(/figures/videos_pred_0_0.gif "Magic Gardens")
+<img src="/figures/1.pdf" alt="图片alt" title="图片title">
 
+Two groups of two with labels on the left and forecasts on the right, 1p~5p in the upper left corner for input condition frames and 0~15 for forecast frames
 <img src="/figures/videos_pred_0_0.gif" alt="图片alt" title="图片title">
