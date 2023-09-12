@@ -18,5 +18,5 @@ of 42.2%, 51.1%, 49.8%, and 39.5% in CSI, ETS, HSS, and POD metrics, respectivel
 
 <img src="/figures/2_page-0001.jpg" alt="图片alt" title="Conditional Diffusion Architecture">
 
-Two groups of two with labels on the left and forecasts on the right, 1p~5p in the upper left corner for input condition frames and 0~15 for forecast frames
+Two groups of two with labels on the left and forecasts on the right, 1p\~5p in the upper left corner for input condition frames and 0\~15 for forecast frames
 <img src="/figures/videos_pred_0_0.gif" alt="图片alt" title="图片title">
