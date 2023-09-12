@@ -1,4 +1,4 @@
-# DiffREE
+# Extrapolation Algorithms for Radar Echoes Based on Conditional Diffusion Models
 Conditional Diffusion Models
 
 **Abstract:** The current inaccurate radar extrapolation results exhibit two typical features: the extension 
@@ -12,3 +12,7 @@ turn, drives the diffusion model to reconstruct the current radar echo frames. T
 demonstrate that the method can generate high-precision and high-quality radar forecast frames. 
 Compared with the best baseline algorithm, the proposed method shows significant improvements
 of 42.2%, 51.1%, 49.8%, and 39.5% in CSI, ETS, HSS, and POD metrics, respectively
+
+## Model Structure
+
+
