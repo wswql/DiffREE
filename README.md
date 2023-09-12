@@ -17,7 +17,7 @@ of 42.2%, 51.1%, 49.8%, and 39.5% in CSI, ETS, HSS, and POD metrics, respectivel
 <img src="/figures/1_page-0001.jpg" alt="图片alt" title="Conditional Encoding Architecture">
 
 <img src="/figures/2_page-0001.jpg" alt="图片alt" title="Conditional Diffusion Architecture">
-
+Conditional Diffusion Architecture
 
 ## GIF Effect
 Two groups of two with labels on the left and forecasts on the right, 1p\~5p in the upper left corner for input condition frames and 0\~15 for forecast frames
@@ -25,6 +25,10 @@ Two groups of two with labels on the left and forecasts on the right, 1p\~5p in 
 
 <img src="/figures/videos_pred_860000_0.gif" alt="图片alt" title="title">
 
+## Experimental Comparison
+<img src="/figures/3_page-0001.jpg" alt="图片alt" title="Conditional Diffusion Architecture">
+
+<img src="/figures/4_page-0001.jpg" alt="图片alt" title="Conditional Diffusion Architecture">
 
 ## Train and Test
 `CUDA_VISIBLE_DEVICES=3,4 python runner.py --config configs/weather_round.yml --exp weather_20  --config_mod sampling.subsample=100 -t --ni`
