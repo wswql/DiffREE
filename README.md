@@ -50,9 +50,9 @@ Conditional Diffusion Architecture
   ![Fig sanya model](/figures/sanya_model.gif)
 
 ## Experimental Comparison
-<img src="/figures/3_page-0001.jpg" alt="图片alt" title="Conditional Diffusion Architecture">
+<img src="/figures/3.pdf" alt="图片alt" title="Conditional Diffusion Architecture">
 
-<img src="/figures/4_page-0001.jpg" alt="图片alt" title="Conditional Diffusion Architecture">
+<img src="/figures/4.pdf" alt="图片alt" title="Conditional Diffusion Architecture">
 
 ## Train and Test
 `CUDA_VISIBLE_DEVICES=3,4 python runner.py --config configs/weather_round.yml --exp weather_20  --config_mod sampling.subsample=100 -t --ni`
