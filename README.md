@@ -24,15 +24,15 @@ Conditional Diffusion Architecture
 Two groups of two with labels on the left and forecasts on the right, 1p\~5p in the upper left corner for input condition frames and 0\~15 for forecast frames
 <img src="/figures/videos_pred_0_0.gif" alt="Fig jiangsu model" title="图片title">
 
-<img src="/figures/videos_pred_860000_0.gif" alt="Fig jiangsu model" title="title">
+<img src="/figures/videos_pred_860000_0.gif" alt="Fig jiangsu model" title="Fig jiangsu model">
 
-<img src="/figures/nationwide_model.gif" alt="Fig nationwide model" title="title">
+<img src="/figures/nationwide_model.gif" alt="Fig nationwide model" title="Fig nationwide model">
 
-<img src="/figures/qinghai_model.gif" alt="Fig qinghai model" title="title">
+<img src="/figures/qinghai_model.gif" alt="Fig qinghai model" title="Fig qinghai model">
 
-<img src="/figures/qinghai_model2.gif" alt="Fig qinghai model" title="title">
+<img src="/figures/qinghai_model2.gif" alt="Fig qinghai model" title="Fig qinghai model">
 
-<img src="/figures/sanya_model.gif" alt="Fig sanya model" title="title">
+<img src="/figures/sanya_model.gif" alt="Fig sanya model" title="Fig sanya model">
 
 ## Experimental Comparison
 <img src="/figures/3_page-0001.jpg" alt="图片alt" title="Conditional Diffusion Architecture">
