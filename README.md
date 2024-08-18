@@ -20,19 +20,35 @@ Conditional Encoding Architecture
 <img src="/figures/2_page-0001.jpg" alt="图片alt" title="Conditional Diffusion Architecture">
 Conditional Diffusion Architecture
 
-## GIF Effect
-Two groups of two with labels on the left and forecasts on the right, 1p\~5p in the upper left corner for input condition frames and 0\~15 for forecast frames
-<img src="/figures/videos_pred_0_0.gif" alt="Fig jiangsu model" title="图片title">
+## GIF 效果展示
 
-<img src="/figures/videos_pred_860000_0.gif" alt="Fig jiangsu model" title="Fig jiangsu model">
+以下展示了两组 GIF 图片，每组包含两个部分。每个 GIF 的左侧显示输入条件的标签（1p~5p），右侧显示预测结果（0~15）。 
 
-<img src="/figures/nationwide_model.gif" alt="Fig nationwide model" title="Fig nationwide model">
+### 江苏模型
 
-<img src="/figures/qinghai_model.gif" alt="Fig qinghai model" title="Fig qinghai model">
+- **图片标题**: Jiangsu Model  
+  ![Fig jiangsu model](/figures/videos_pred_0_0.gif)
 
-<img src="/figures/qinghai_model2.gif" alt="Fig qinghai model" title="Fig qinghai model">
+- **图片标题**: Jiangsu Model (Another Scenario)  
+  ![Fig jiangsu model](/figures/videos_pred_860000_0.gif)
 
-<img src="/figures/sanya_model.gif" alt="Fig sanya model" title="Fig sanya model">
+### 全国模型
+
+- **图片标题**: Nationwide Model  
+  ![Fig nationwide model](/figures/nationwide_model.gif)
+
+### 青海模型
+
+- **图片标题**: Qinghai Model  
+  ![Fig qinghai model](/figures/qinghai_model.gif)
+
+- **图片标题**: Qinghai Model (Another Scenario)  
+  ![Fig qinghai model](/figures/qinghai_model2.gif)
+
+### 三亚模型
+
+- **图片标题**: Sanya Model  
+  ![Fig sanya model](/figures/sanya_model.gif)
 
 ## Experimental Comparison
 <img src="/figures/3_page-0001.jpg" alt="图片alt" title="Conditional Diffusion Architecture">
